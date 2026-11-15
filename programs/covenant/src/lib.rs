@@ -18,7 +18,7 @@ pub mod state;
 use instructions::*;
 use state::{ARBITRATOR_COUNT, DisputeResolution};
 
-declare_id!("5hstj5grBUL1BeSaPLYpgkD6n3ALasmbseRvKRFfCVNT");
+declare_id!("6ftEd3uT4v4XEmy5oBNPtBo6HU1bZzdPJuDL9bZTFXA4");
 
 #[program]
 pub mod covenant {
